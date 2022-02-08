@@ -1,0 +1,16 @@
+MMR001	Kachin	 60.0 	60%
+MMR002	Kayah	 50.0 	50%
+MMR003	Kayin	 28.2 	28%
+MMR004	Chin	 66.7 	67%
+MMR005	Sagaing	 48.6 	49%
+MMR006	Tanintharyi	 50.0 	50%
+MMR111	Bago	 34.8 	35%
+MMR009	Magway	 58.6 	59%
+MMR010	Mandalay	 46.7 	47%
+MMR011	Mon	 45.7 	46%
+MMR012	Rakhine	 37.2 	37%
+MMR013	Yangon	 62.5 	63%
+MMR222	Shan	 57.1 	57%
+MMR017	Ayeyarwady	 54.5 	55%
+MMR018	Nay Pyi Taw	 57.1 	57%
+MMR000	Union	 50.3 	50.3%
